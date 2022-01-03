@@ -1,56 +1,20 @@
 {
-  "burgers": [
+  "tables": [
     {
-      "id": 0,
-      "name": "Tribute Burger",
-      "restaurant": "Honest Burgers",
-      "web": "www.honestburgers.co.uk",
-      "description": "A mouth-watering honest beef burger",
-      "ingredients": [
-        "beef",
-        "american cheese",
-        "burger sauce",
-        "french mustard",
-        "pickes",
-        "onion",
-        "lettuce"
-      ],
-      "addresses": [
-        {
-          "addressId": 0,
-          "number": "75",
-          "line1": "Venn Street",
-          "line2": "Clapham",
-          "postcode": "SW4 0BD",
-          "country": "United Kingdom"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Tribute Burger",
-      "restaurant": "Honest Burgers",
-      "web": "www.honestburgers.co.uk",
-      "description": "A mouth-watering honest beef burger",
-      "ingredients": [
-        "beef",
-        "american cheese",
-        "burger sauce",
-        "french mustard",
-        "pickes",
-        "onion",
-        "lettuce"
-      ],
-      "addresses": [
-        {
-          "addressId": 0,
-          "number": "75",
-          "line1": "Venn Street",
-          "line2": "Clapham",
-          "postcode": "SW4 0BD",
-          "country": "United Kingdom"
-        }
-      ]
+      "table1": {
+        "data": "02.05.2021r",
+        "le": "1",
+        "remFuel": "100l",
+        "upFuel": "20l",
+        "totalFuel": "150l",
+        "from": "EPWR",
+        "to": "EPLS",
+        "takeOf": "10:12",
+        "land": "10:12",
+        "totalFT": "01:12",
+        "prev": "104,12",
+        "current": "114,24"
+      }
     }
   ]
 }
