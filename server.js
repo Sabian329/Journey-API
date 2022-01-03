@@ -8,8 +8,8 @@ const app = express();
 
 server.use(middlewares);
 server.use(router);
-
 server.listen(port);
+
 app.post("/", (req, res) => {
   res.status(200).json({ message: "It worked!" });
 });
