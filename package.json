@@ -1,0 +1,23 @@
+{
+  "name": "server-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabian329/Journey-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sabian329/Journey-API/issues"
+  },
+  "homepage": "https://github.com/Sabian329/Journey-API#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
