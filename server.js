@@ -14,7 +14,7 @@ app.post("/", (req, res) => {
   res.status(200).json({ message: "It worked!" });
 });
 
-// server.listen(delete);
-// app.delete("/", (req, res) => {
-//   res.status(200).json({ message: "deleted" });
-// });
+server.listen(port);
+app.delete("/", (req, res) => {
+  res.status(200).json({ message: "deleted" });
+});
