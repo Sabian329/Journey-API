@@ -6,20 +6,11 @@
       "sideNumber": "Z3-01",
       "color": "White",
       "type": "TRUCK",
-
-      "rangeKm": 193,
-      "batteryLevelPct": 98,
-
-      "status": "AVAILABLE",
-
-      "mapColor": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
-
+      "rangeKm": 93,
+      "batteryLevelPct": 48,
+      "status": "UNAVAILABLE",
       "id": "00000000000-0005-000000000003",
-      "name": "Enigma Python Van",
-
+      "name": "Tesla model S",
       "location": {
         "latitude": 52.1935161702226,
         "longitude": 20.9304286193486
@@ -31,18 +22,10 @@
       "sideNumber": "Z21",
       "color": "Blue",
       "type": "CAR",
-
       "rangeKm": 150,
       "batteryLevelPct": 75,
-
-      "mapColor": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
-
       "id": "00000000000-0005-000000000002",
-      "name": "Renault Zoe Blue",
-
+      "name": "Renault",
       "location": {
         "latitude": 52.193603,
         "longitude": 20.931407
@@ -57,14 +40,8 @@
       "rangeKm": 134,
       "batteryLevelPct": 86,
       "status": "AVAILABLE",
-
-      "mapColor": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
-
       "id": "00000000000-0005-000000000001",
-      "name": "Nissan Leaf White",
+      "name": "Porshe Tycan",
       "location": {
         "latitude": 52.193275,
         "longitude": 20.930372
@@ -76,17 +53,11 @@
       "sideNumber": "Z4-01",
       "color": "White",
       "type": "CAR",
-
-      "rangeKm": 193,
-      "batteryLevelPct": 98,
-      "status": "AVAILABLE",
-      "mapColor": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
-
+      "rangeKm": 63,
+      "batteryLevelPct": 18,
+      "status": "UNAVAILABLE",
       "id": "00000000000-0005-000000000004",
-      "name": "Enigma Python Car",
+      "name": "Toyota",
       "location": {
         "latitude": 52.193891367697,
         "longitude": 20.930564789789
@@ -98,15 +69,9 @@
       "sideNumber": "Z3-01",
       "color": "White",
       "type": "TRUCK",
-
       "rangeKm": 193,
       "batteryLevelPct": 98,
-      "status": "BUSY",
-      "mapColor": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
-
+      "status": "AVAILABLE",
       "id": "00000000000-0005-000000000003",
       "name": "VW passat",
 
