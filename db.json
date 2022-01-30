@@ -2,14 +2,14 @@
   "VEHICLE": [
     {
       "discriminator": "vehicle",
-      "platesNumber": "WKJ884",
+      "platesNumber": "DJS-342",
       "sideNumber": "Z3-01",
       "color": "White",
       "type": "TRUCK",
       "rangeKm": 93,
       "batteryLevelPct": 48,
       "status": "UNAVAILABLE",
-      "id": "00000000000-0005-000000000003",
+      "id": "00",
       "name": "Tesla model S",
       "location": {
         "latitude": 52.1935161702226,
@@ -18,13 +18,14 @@
     },
     {
       "discriminator": "vehicle",
-      "platesNumber": "WKJ884",
+      "platesNumber": "DW-255",
       "sideNumber": "Z21",
       "color": "Blue",
       "type": "CAR",
       "rangeKm": 150,
       "batteryLevelPct": 75,
-      "id": "00000000000-0005-000000000002",
+      "status": "AVAILABLE",
+      "id": "01",
       "name": "Renault",
       "location": {
         "latitude": 52.193603,
@@ -33,14 +34,14 @@
     },
     {
       "discriminator": "vehicle",
-      "platesNumber": "WKJ884",
+      "platesNumber": "DJA-234",
       "sideNumber": "Z11",
       "color": "White",
       "type": "CAR",
       "rangeKm": 134,
       "batteryLevelPct": 86,
       "status": "AVAILABLE",
-      "id": "00000000000-0005-000000000001",
+      "id": "02",
       "name": "Porshe Tycan",
       "location": {
         "latitude": 52.193275,
@@ -49,14 +50,14 @@
     },
     {
       "discriminator": "vehicle",
-      "platesNumber": "WKJ884",
+      "platesNumber": "UN-23G4",
       "sideNumber": "Z4-01",
       "color": "White",
       "type": "CAR",
       "rangeKm": 63,
       "batteryLevelPct": 18,
       "status": "UNAVAILABLE",
-      "id": "00000000000-0005-000000000004",
+      "id": "03",
       "name": "Toyota",
       "location": {
         "latitude": 52.193891367697,
@@ -65,15 +66,15 @@
     },
     {
       "discriminator": "vehicle",
-      "platesNumber": "WKJ884",
+      "platesNumber": "DJ-GDA",
       "sideNumber": "Z3-01",
       "color": "White",
       "type": "TRUCK",
       "rangeKm": 193,
       "batteryLevelPct": 98,
       "status": "AVAILABLE",
-      "id": "00000000000-0005-000000000003",
-      "name": "VW passat",
+      "id": "04",
+      "name": "Tesla model X",
 
       "location": {
         "latitude": 53.05510373305938,
