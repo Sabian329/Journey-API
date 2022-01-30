@@ -1,169 +1,2567 @@
 {
-  "objects": [
+  "VEHICLE": [
     {
       "discriminator": "vehicle",
-      "platesNumber": "WZPV001",
-      "sideNumber": "Z3-PVAN-01",
+      "platesNumber": "WKJ884",
+      "sideNumber": "Z3-01",
       "color": "White",
       "type": "TRUCK",
-      "picture": {
-        "id": "e7ace1de-ab7f-4120-922d-23441a041bd9",
-        "name": "e7ace1de-ab7f-4120-922d-23441a041bd9",
-        "extension": null,
-        "contentType": null
-      },
+
       "rangeKm": 193,
       "batteryLevelPct": 98,
-      "reservationEnd": null,
-      "reservation": null,
+      "res
+      "
       "status": "AVAILABLE",
-      "locationDescription": null,
-      "address": null,
+      "location
+
       "mapColor": {
         "rgb": "ffffff",
         "alpha": 0.5
       },
-      "promotion": null,
-      "id": "00000000-0000-0000-0005-000000000003",
+    
+      "id": "00000000000-0005-000000000003",
       "name": "Enigma Python Van",
-      "description": null,
+      "
       "location": {
         "latitude": 52.1935161702226,
         "longitude": 20.9304286193486
       },
-      "metadata": null
-    },
+      },
     {
       "discriminator": "vehicle",
-      "platesNumber": "WZ9561W",
-      "sideNumber": "Z2-BL-01",
+      "platesNumber": "WKJ884",
+      "sideNumber": "Z21",
       "color": "Blue",
       "type": "CAR",
-      "picture": {
-        "id": "61133b4c-2e9b-4da9-b22c-009baad8eadd",
-        "name": "61133b4c-2e9b-4da9-b22c-009baad8eadd",
-        "extension": null,
-        "contentType": null
-      },
+
       "rangeKm": 150,
       "batteryLevelPct": 75,
-      "reservationEnd": null,
-      "reservation": null,
-      "status": null,
-      "locationDescription": null,
-      "address": null,
+      "res
+      "
+      "location
+
       "mapColor": {
         "rgb": "ffffff",
         "alpha": 0.5
       },
-      "promotion": null,
-      "id": "00000000-0000-0000-0005-000000000002",
+    
+      "id": "00000000000-0005-000000000002",
       "name": "Renault Zoe Blue",
-      "description": null,
+      "
       "location": {
         "latitude": 52.193603,
         "longitude": 20.931407
       },
-      "metadata": null
-    },
+      },
     {
       "discriminator": "vehicle",
-      "platesNumber": "WZ8748W",
-      "sideNumber": "Z1-WH-01",
+      "platesNumber": "WKJ884",
+      "sideNumber": "Z11",
       "color": "White",
       "type": "CAR",
-      "picture": {
-        "id": "9818875c-9e8b-4dc5-98ae-5909a8d632e2",
-        "name": "9818875c-9e8b-4dc5-98ae-5909a8d632e2",
-        "extension": null,
-        "contentType": null
-      },
+
       "rangeKm": 134,
       "batteryLevelPct": 86,
-      "reservationEnd": null,
-      "reservation": null,
+      "res
+      "
       "status": "AVAILABLE",
-      "locationDescription": null,
-      "address": null,
+      "location
+
       "mapColor": {
         "rgb": "ffffff",
         "alpha": 0.5
       },
-      "promotion": null,
-      "id": "00000000-0000-0000-0005-000000000001",
+    
+      "id": "00000000000-0005-000000000001",
       "name": "Nissan Leaf White",
-      "description": null,
+      "
       "location": {
         "latitude": 52.193275,
         "longitude": 20.930372
       },
-      "metadata": null
-    },
+      },
     {
       "discriminator": "vehicle",
-      "platesNumber": "WZPC001",
-      "sideNumber": "Z4-PCAR-01",
+      "platesNumber": "WKJ884",
+      "sideNumber": "Z4-01",
       "color": "White",
       "type": "CAR",
-      "picture": {
-        "id": "61133b4c-2e9b-4da9-b22c-009baad8eadd",
-        "name": "61133b4c-2e9b-4da9-b22c-009baad8eadd",
-        "extension": null,
-        "contentType": null
-      },
+
       "rangeKm": 193,
       "batteryLevelPct": 98,
-      "reservationEnd": null,
-      "reservation": null,
+      "res
+      "
       "status": "AVAILABLE",
-      "locationDescription": null,
-      "address": null,
+      "location
+
       "mapColor": {
         "rgb": "ffffff",
         "alpha": 0.5
       },
-      "promotion": null,
-      "id": "00000000-0000-0000-0005-000000000004",
+    
+      "id": "00000000000-0005-000000000004",
       "name": "Enigma Python Car",
-      "description": null,
+      "
       "location": {
         "latitude": 52.193891367697,
         "longitude": 20.930564789789
       },
-      "metadata": null
-    },
+      },
     {
       "discriminator": "vehicle",
-      "platesNumber": "WZPV001",
-      "sideNumber": "Z3-PVAN-01",
+      "platesNumber": "WKJ884",
+      "sideNumber": "Z3-01",
       "color": "White",
       "type": "TRUCK",
-      "picture": {
-        "id": "e7ace1de-ab7f-4120-922d-23441a041bd9",
-        "name": "e7ace1de-ab7f-4120-922d-23441a041bd9",
-        "extension": null,
-        "contentType": null
-      },
+
       "rangeKm": 193,
       "batteryLevelPct": 98,
-      "reservationEnd": null,
-      "reservation": null,
+      "res
+      "
       "status": "BUSY",
-      "locationDescription": null,
-      "address": null,
+      "location
+
       "mapColor": {
         "rgb": "ffffff",
         "alpha": 0.5
       },
-      "promotion": null,
-      "id": "00000000-0000-0000-0005-000000000003",
+    
+      "id": "00000000000-0005-000000000003",
       "name": "VW passat",
-      "description": null,
+      "
       "location": {
         "latitude": 53.05510373305938,
         "longitude": 16.013076597936138
       },
-      "metadata": null
+      }
+  ],
+  "POI": [
+    {
+      "discriminator": "poi",
+      "id": "00bf4ba5000-8398-83c650414c54",
+      "name": "Narodowe Forum Muzyki",
+      "description": "Narodowe Forum Muzyki",
+      "location": {
+        "latitude": 51.11057,
+        "longitude": 17.044326
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "08df9159000-94ce-06a0d5e3666a",
+      "name": "Wrocław Zachodni",
+      "description": "Stacja kolejowa: Wrocław Zachodni",
+      "location": {
+        "latitude": 51.090203,
+        "longitude": 16.950611
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "11ae6260000-ae9f-09b3ec51167a",
+      "name": "Wrocław Kuźniki",
+      "description": "Stacja kolejowa: Wrocław Kuźniki",
+      "location": {
+        "latitude": 51.127194,
+        "longitude": 16.953301
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "13334a59000-afa0-73920c89d487",
+      "name": "Wrocław Brochów",
+      "description": "Stacja kolejowa Wrocław Brochów",
+      "location": {
+        "latitude": 51.064337,
+        "longitude": 17.084293
+      },
+      "metadata": {},
+      "address": {
+        "street": "Mościckiego",
+        "house": "36",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "168a128f000-b37a-d59ad56909a0",
+      "name": "Wrocław Popowice",
+      "description": "Stacja kolejowa: Wrocław Popowice",
+      "location": {
+        "latitude": 51.12721,
+        "longitude": 17.001381
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "17a38404000-a065-c0554647506b",
+      "name": "Park Południowy",
+      "description": "Park Południowy",
+      "location": {
+        "latitude": 51.075355,
+        "longitude": 17.010315
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "19d11338000-b52b-59592735bf9e",
+      "name": "Rynek (pl. Solny)",
+      "description": "Rynek (pl. Solny)",
+      "location": {
+        "latitude": 17.028904,
+        "longitude": 51.109574
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "2139e5f0000-ac58-c6719a0aeb7f",
+      "name": "Zraszacz",
+      "description": "Zraszacz - Krasnal",
+      "location": {
+        "latitude": 51.109748,
+        "longitude": 17.031125
+      },
+      "metadata": {},
+      "address": {
+        "street": "Rynek",
+        "city": "Wrocław"
+      },
+      "category": "Krasnale",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "2229e5f0000-ac58-c6719a0aeb7f",
+      "name": "Rynek",
+      "description": "Rynek, Wrocław",
+      "location": {
+        "latitude": 51.109751,
+        "longitude": 17.030717
+      },
+      "metadata": {},
+      "address": {
+        "street": "Rynek",
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "24197d3b000-9cd1-04b5d0adcce2",
+      "name": "Hydropolis",
+      "description": "Hydropolis",
+      "location": {
+        "latitude": 51.103919,
+        "longitude": 17.057494
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "27373ded000-b8e7-29ee784cd480",
+      "name": "Wrocław Kowale",
+      "description": "Stacja kolejowa: Wrocław Kowale",
+      "location": {
+        "latitude": 51.134486,
+        "longitude": 17.100544
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "3139e5f0000-ac58-c6719a0aeb7f",
+      "name": "Sky Tower",
+      "description": "Sky Tower",
+      "location": {
+        "latitude": 51.094802,
+        "longitude": 17.018731
+      },
+      "metadata": {},
+      "address": {
+        "street": "Sky Tower",
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "3e204f8b000-9970-26a73c2a62de",
+      "name": "Wrocław Nadodrze",
+      "description": "Stacja kolejowa: Wrocław Nadodrze",
+      "location": {
+        "latitude": 51.125475,
+        "longitude": 17.032527
+      },
+      "metadata": {},
+      "address": {
+        "street": "Plac ks. Stanisława Staszica",
+        "house": "50",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "4343c2ee000-85a8-be2aee132156",
+      "name": "Wrocław Stadion",
+      "description": "Wrocław Stadion",
+      "location": {
+        "latitude": 51.141143,
+        "longitude": 16.943751
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "4f011511000-a0f6-cb4a09da5490",
+      "name": "Wrocław Żerniki",
+      "description": "Stacja kolejowa: Wrocław Żerniki",
+      "location": {
+        "latitude": 51.126152,
+        "longitude": 16.915696
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "4fc4ed9a000-8c55-6ea2e9ad5fa2",
+      "name": "Wrocław Zakrzów",
+      "description": "Stacja kolejowa: Wrocław Zakrzów",
+      "location": {
+        "latitude": 51.158767,
+        "longitude": 17.122165
+      },
+      "metadata": {},
+      "address": {
+        "street": "Dubrownicka",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "55e88fd5000-83b0-a03173eeb5af",
+      "name": "Panorama Racławicka",
+      "description": "Panorama Racławicka",
+      "location": {
+        "latitude": 51.11057,
+        "longitude": 17.044326
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "575f1086000-8cd1-42146459135b",
+      "name": "Wrocław Sołtysowice",
+      "description": "Stacja kolejowa: Wrocław Sołtysowice",
+      "location": {
+        "latitude": 51.142401,
+        "longitude": 17.083092
+      },
+      "metadata": {},
+      "address": {
+        "street": "aleja Poprzeczna",
+        "house": "37",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "5c2d8fd3000-a40d-a73342179f39",
+      "name": "Centrum Historii Zajezdnia",
+      "description": "Centrum Historii Zajezdnia",
+      "location": {
+        "latitude": 51.09671,
+        "longitude": 16.991208
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "602f2bc6000-bd27-0ce5ad630bf0",
+      "name": "Wrocław Brochów",
+      "description": "Stacja kolejowa: Wrocław Główny",
+      "location": {
+        "latitude": 51.098899,
+        "longitude": 17.03669
+      },
+      "metadata": {},
+      "address": {
+        "street": "Piłsudskiego",
+        "house": "105",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "72ecd6b8000-bca1-42ebacc19851",
+      "name": "ZOO",
+      "description": "ZOO",
+      "location": {
+        "latitude": 51.105672,
+        "longitude": 17.075911
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "73d4a8df000-ac3a-f820a142a418",
+      "name": "Port Lotniczy Wrocław",
+      "description": "Port Lotniczy Wrocław",
+      "location": {
+        "latitude": 51.110802,
+        "longitude": 16.878196
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "7ee102c1000-a8d9-69ee9e4f06f8",
+      "name": "Wrocław Osobowice",
+      "description": "Stacja kolejowa: Wrocław Osobowice",
+      "location": {
+        "latitude": 51.16656,
+        "longitude": 16.997389
+      },
+      "metadata": {},
+      "address": {
+        "street": "Pełczyńska",
+        "house": "44",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "84ad17d5000-89d5-0c5d2beb5ad9",
+      "name": "Park Zachodni",
+      "description": "Park Zachodni",
+      "location": {
+        "latitude": 51.130101,
+        "longitude": 16.971441
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "85e00646000-89ec-9aa62da6bbc6",
+      "name": "Wrocław Nowy Dwór",
+      "description": "Stacja kolejowa: Wrocław Nowy Dwór",
+      "location": {
+        "latitude": 51.1199,
+        "longitude": 16.953373
+      },
+      "metadata": {},
+      "address": {
+        "street": "Żernicka",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "874e459d000-8577-eecaa9cca942",
+      "name": "Wrocław Różanka",
+      "description": "Stacja kolejowa: Wrocław Różanka",
+      "location": {
+        "latitude": 51.13803,
+        "longitude": 17.003848
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "9d1f49c4000-a5f1-a0271fab424a",
+      "name": "Wrocławski Park Technologiczny",
+      "description": "Wrocławski Park Technologiczny",
+      "location": {
+        "latitude": 51.108018,
+        "longitude": 16.971263
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "9ff6aa23000-b081-7915e940fd38",
+      "name": "Kolejkowo",
+      "description": "Kolejkowo",
+      "location": {
+        "latitude": 51.108033,
+        "longitude": 17.020347
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "a0d85b45000-b080-ea6fc8f02f54",
+      "name": "Wrocław Muchobór",
+      "description": "Stacja kolejowa: Wrocław Muchobór",
+      "location": {
+        "latitude": 51.111661,
+        "longitude": 16.974192
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "a75ef20c000-9210-b747e90645a4",
+      "name": "Sky Tower",
+      "description": "Sky Tower",
+      "location": {
+        "latitude": 51.094423,
+        "longitude": 17.020978
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "bd3d7f49000-afb5-08ee0f87a15a",
+      "name": "Wrocław Świniary",
+      "description": "Stacja kolejowa: Wrocław Świniary",
+      "location": {
+        "latitude": 51.197595,
+        "longitude": 16.970276
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "c3e839ce000-8adf-3a0f16a3c3ec",
+      "name": "Smolec",
+      "description": "Stacja kolejowa: Smolec",
+      "location": {
+        "latitude": 51.071699,
+        "longitude": 16.881629
+      },
+      "metadata": {},
+      "address": {
+        "street": "Dworcowa",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "c5fd806e000-b719-8d73fb6eef47",
+      "name": "Teatr Muzyczny Capitol",
+      "description": "Teatr Muzyczny Capitol",
+      "location": {
+        "latitude": 51.100849,
+        "longitude": 17.030124
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "c72f1b03000-baec-4757a90326c2",
+      "name": "Wrocław Mikołajów",
+      "description": "Stacja kolejowa: Wrocław Mikołajów",
+      "location": {
+        "latitude": 51.11524,
+        "longitude": 16.998491
+      },
+      "metadata": {},
+      "address": {
+        "street": "Stacyjna",
+        "house": "5",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "cc379ece000-905d-51ae1e590beb",
+      "name": "Wrocław Swojczyce",
+      "description": "Stacja kolejowa: Wrocław Swojczyce",
+      "location": {
+        "latitude": 51.115873,
+        "longitude": 17.1214
+      },
+      "metadata": {},
+      "address": {
+        "street": "Gospodarska",
+        "house": "1",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "ccc23208000-9193-b2e12ea6bf58",
+      "name": "Wrocław Psie Pole",
+      "description": "Stacja kolejowa: Wrocław Psie Pole",
+      "location": {
+        "latitude": 51.150426,
+        "longitude": 17.119248
+      },
+      "metadata": {},
+      "address": {
+        "street": "Dobroszycka",
+        "house": "2",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "cf76b941000-8053-8d1670f06643",
+      "name": "Bielany Wrocławskie",
+      "description": "Stacja kolejowa: Bielany Wrocławskie",
+      "location": {
+        "latitude": 51.037276,
+        "longitude": 16.976182
+      },
+      "metadata": {},
+      "address": {
+        "street": "Dworcowa",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "d119e5f0000-ac58-c6719a0aeb7f",
+      "name": "Wrocław Główny",
+      "description": "Dworzec Główny PKP, Wrocław",
+      "location": {
+        "latitude": 51.09888,
+        "longitude": 17.036568
+      },
+      "metadata": {},
+      "address": {
+        "street": "Piłsudskiego",
+        "house": "105",
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "d195794e000-89a1-7cd747ddb142",
+      "name": "Ogród Japoński",
+      "description": "Ogród Japoński",
+      "location": {
+        "latitude": 51.11015,
+        "longitude": 17.078862
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "d6b5725e000-a792-463784074f5b",
+      "name": "Wrocław Stadion",
+      "description": "Stacja kolejowa: Wrocław Stadion",
+      "location": {
+        "latitude": 51.136992,
+        "longitude": 16.940858
+      },
+      "metadata": {},
+      "address": {
+        "street": "Warciańska",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "dd3a655d000-bb9c-df213d02bcb9",
+      "name": "Hala Stulecia",
+      "description": "Hala Stulecia",
+      "location": {
+        "latitude": 51.106318,
+        "longitude": 17.076769
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "e31d8116000-a704-bc8fc8997990",
+      "name": "Wrocław Grabiszyn",
+      "description": "Stacja kolejowa: Wrocław Grabiszyn",
+      "location": {
+        "latitude": 51.096712,
+        "longitude": 16.974283
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "e5f3bca6000-bfa0-ffc36a66789c",
+      "name": "Muzeum Współczesne",
+      "description": "Muzeum Współczesne",
+      "location": {
+        "latitude": 51.113197,
+        "longitude": 17.00533
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "ea2d33d9000-902e-874829dfc4e1",
+      "name": "Wrocław Leśnica",
+      "description": "Stacja kolejowa: Wrocław Leśnica",
+      "location": {
+        "latitude": 51.142953,
+        "longitude": 16.866649
+      },
+      "metadata": {},
+      "address": {
+        "street": "Rubczaka",
+        "house": "20",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "edbcf75d000-96c5-45f678bac5a1",
+      "name": "Wrocławski Park Wodny",
+      "description": "Wrocławski Park Wodny",
+      "location": {
+        "latitude": 51.091047,
+        "longitude": 17.032414
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "ef6cf875000-a7c6-557394ab5433",
+      "name": "Wrocław Pawłowice",
+      "description": "Stacja kolejowa: Wrocław Pawłowice",
+      "location": {
+        "latitude": 51.168568,
+        "longitude": 17.108918
+      },
+      "metadata": {},
+      "address": {
+        "street": "Starodębowa",
+        "city": "Wrocław"
+      },
+      "category": "Stacje kolejowe",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "fe0d54f3000-aedd-bd35eb438e6e",
+      "name": "Wyspa Piasek",
+      "description": "Wyspa Piasek",
+      "location": {
+        "latitude": 51.114997,
+        "longitude": 17.040907
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
+    },
+    {
+      "discriminator": "poi",
+      "id": "feed168a000-a9ef-8b326d9500c2",
+      "name": "Ostrów Tumski",
+      "description": "Ostrów Tumski",
+      "location": {
+        "latitude": 51.114474,
+        "longitude": 17.04691
+      },
+      "metadata": {},
+      "address": {
+
+        "city": "Wrocław"
+      },
+      "category": "Ciekawe miejsca",
+
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      }
     }
+  ],
+  "PARKING": [
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Bałuckiego",
+        "house": "18",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "03c66296000-a78d-9367ea840541",
+      "name": "Bałuckiego",
+      "description": "Bałuckiego",
+      "location": {
+        "latitude": 51.101935,
+        "longitude": 17.02744
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Dubois",
+        "house": "1",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "08d06f9d000-9e13-0cd764845e1a",
+      "name": "Dubois",
+      "description": "Młodzieżowy Dom Kultury Śródmieście",
+      "location": {
+        "latitude": 51.116992,
+        "longitude": 17.033437
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Plac Powstańców Warszawy",
+        "house": "1",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "0a324da8000-9bff-25816b37a282",
+      "name": "Plac Powstańców Warszawy",
+      "description": "Dolnośląski Urząd Wojewódzki",
+      "location": {
+        "latitude": 51.109949,
+        "longitude": 17.048515
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Łukasiewicza",
+        "house": "7",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "0acefd7f000-95ec-99e73b65410d",
+      "name": "Łukasiewicza",
+      "description": "Łukasiewicza",
+      "location": {
+        "latitude": 51.108534,
+        "longitude": 17.06509
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Uniwersytecka",
+        "house": "27",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "0bfab031000-9bd0-3f3b70f937ac",
+      "name": "Uniwersytecka",
+      "description": "Uniwersytecka - Biblioteka",
+      "location": {
+        "latitude": 51.11314,
+        "longitude": 17.034127
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Waligurskiego",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "0ce46865000-b178-8bbbded415dc",
+      "name": "Waligurskiego",
+      "description": "Park Południowy",
+      "location": {
+        "latitude": 51.075148,
+        "longitude": 17.008261
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Aleja Pracy",
+        "house": "41",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "0f30a2d1000-8320-d01c83eaf2ef",
+      "name": "Aleja Hallera",
+      "description": "Aleja Hallera / Aleja Pracy",
+      "location": {
+        "latitude": 51.091961,
+        "longitude": 16.986119
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Ruska",
+        "house": "11",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "12812496000-b8e4-7d48e39deca2",
+      "name": "Ruska",
+      "description": "Ruska",
+      "location": {
+        "latitude": 51.110333,
+        "longitude": 17.027323
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Wystawowa",
+        "house": "1",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "261437e8000-9d01-46f7ba0917db",
+      "name": "Wystawowa",
+      "description": "Wystawowa",
+      "location": {
+        "latitude": 51.107699,
+        "longitude": 17.073872
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Plac Katedralny",
+        "house": "11",
+        "city": "Wrocław"
+      },
+      "spacesCount": 2,
+      "availableSpacesCount": 2,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "26d4df1e000-b4aa-cb8853da7d8b",
+      "name": "Plac Katedralny / Ostrów Tumski",
+      "description": "Plac Katedralny / Ostrów Tumski",
+      "location": {
+        "latitude": 51.114125,
+        "longitude": 17.04896
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Cieszyńskiego",
+        "house": "20",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "36b2517a000-bbdc-73f95f73ea36",
+      "name": "Cieszyńskiego",
+      "description": "Cieszyńskiego",
+      "location": {
+        "latitude": 51.112673,
+        "longitude": 17.0275466
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Powstańców Śląskich",
+        "house": "58",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "3b4e2399000-92b7-df57e738f510",
+      "name": "Powstańców Śląskich",
+      "description": "Powstańców Śląskich / Radosna",
+      "location": {
+        "latitude": 51.094836,
+        "longitude": 17.022236
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Tęczowa",
+        "house": "6",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "3c692188000-9425-248faff306b4",
+      "name": "Plac Orląt Lwowskich",
+      "description": "Plac Orląt Lwowskich",
+      "location": {
+        "latitude": 51.107505,
+        "longitude": 17.020096
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Kraińskiego",
+        "house": "16",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "42efdf05000-8b64-756265aa0778",
+      "name": "Kraińskiego",
+      "description": "Kraińskiego",
+      "location": {
+        "latitude": 51.1124,
+        "longitude": 17.041034
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Świętego Marcina",
+        "house": "2",
+        "city": "Wrocław"
+      },
+      "spacesCount": 2,
+      "availableSpacesCount": 2,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "45ead00e000-8502-6b11698c1d8a",
+      "name": "Św. Marcina / Ostrów Tumski",
+      "description": "Św. Marcina / Ostrów Tumski",
+      "location": {
+        "latitude": 51.116209,
+        "longitude": 17.041816
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Bujwida",
+        "house": "25",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [
+        "307a90d7-bcb3-438f-a97b-07510cb7333f",
+        "81009482-9621-4cf5-a122-470140114697",
+        "40b3f718-35ae-4a93-acfe-487e5842e530",
+        "292e7beb-c782-408b-bc3d-1f139ec882ec",
+        "a2f1cadf-b597-496f-bace-61fc88cd2c3f",
+        "faf1893c-e5b3-4050-b4f8-4ab96330c438",
+        "d57e8da9-0cf8-4734-abaa-90eae1af799c"
+      ],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "461ca741000-a2c7-e55b78cb5456",
+      "name": "Bujwida",
+      "description": "Domy Akademickie Kredka i Ołówek",
+      "location": {
+        "latitude": 51.114257,
+        "longitude": 17.067088
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Szajnochy",
+        "house": "1",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "46db46f9000-af75-4a9bf9977a0c",
+      "name": "Szajnochy",
+      "description": "Szajnochy / Geperta",
+      "location": {
+        "latitude": 51.108621,
+        "longitude": 17.029309
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Na Grobli",
+        "house": "8",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "485af88f000-a1df-14035a79ad98",
+      "name": "Na Grobli",
+      "description": "Politechnika Wrocławska",
+      "location": {
+        "latitude": 51.10487,
+        "longitude": 17.054986
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Wielka",
+        "house": "61",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "4988fcef000-a045-fdbb939f7d5c",
+      "name": "Wielka",
+      "description": "Wielka",
+      "location": {
+        "latitude": 51.091681,
+        "longitude": 17.025819
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Św. Antoniego",
+        "house": "7",
+        "city": "Wrocław"
+      },
+      "spacesCount": 2,
+      "availableSpacesCount": 2,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "4c935d42000-8bfe-b299beefb8e2",
+      "name": "Św. Antoniego",
+      "description": "Wratislavia Tower",
+      "location": {
+        "latitude": 51.1090862,
+        "longitude": 17.02582195
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Rejtana",
+        "house": "13",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "50e07c84000-a352-a19b447e65eb",
+      "name": "Rejtana",
+      "description": "Rejtana",
+      "location": {
+        "latitude": 51.100692,
+        "longitude": 17.035759
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Zapolskiej",
+        "house": "2",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "55d810be000-a0c7-5c7b47da6497",
+      "name": "Zapolskiej",
+      "description": "Zapolskiej",
+      "location": {
+        "latitude": 51.101671,
+        "longitude": 17.026994
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Hercena",
+        "house": "7",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "586a8c2b000-8922-db170a8d497c",
+      "name": "Hercena",
+      "description": "Hercena",
+      "location": {
+        "latitude": 51.102802,
+        "longitude": 17.041332
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Leszczyńskiego",
+        "house": "4",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "5963ecb8000-ae2d-94ffecaf2fc1",
+      "name": "Leszczyńskiego",
+      "description": "Leszczyńskiego",
+      "location": {
+        "latitude": 51.10786474,
+        "longitude": 17.03090206
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Janickiego",
+        "house": "2",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "5a3f0abe000-95d6-73e00bb4e745",
+      "name": "Aleja Słowackiego",
+      "description": "Aleja Słowackiego / Janickiego",
+      "location": {
+        "latitude": 51.10901266,
+        "longitude": 17.0416577
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Styki i Kossaka",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "5aaeab24000-8e06-763cf283e5d9",
+      "name": "Styki i Kossaka",
+      "description": "Kościół Kapistrana",
+      "location": {
+        "latitude": 51.110415,
+        "longitude": 17.043185
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Wybrzeże Wyspiańskiego",
+        "house": "23",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "654b0db3000-ad04-df72cbdf496c",
+      "name": "Wybrzeże Wyspiańskiego",
+      "description": "Serowiec",
+      "location": {
+        "latitude": 51.107205,
+        "longitude": 17.059206
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Dobrzyńska",
+        "house": "16",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "69f1e937000-97be-16a140d74b29",
+      "name": "Dobrzyńska",
+      "description": "Dobrzyńska",
+      "location": {
+        "latitude": 51.106678,
+        "longitude": 17.046127
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Piłsudskiego",
+        "house": "0",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "6ae44064000-b235-baa861896bc7",
+      "name": "Piłsudskiego / NOT",
+      "description": "Piłsudskiego / NOT",
+      "location": {
+        "latitude": 51.100658,
+        "longitude": 17.032816
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Kołłątaja",
+        "house": "27",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "6c92cd69000-9cdf-9d28b57b4fdc",
+      "name": "Kołłątaja",
+      "description": "Kołłątaja",
+      "location": {
+        "latitude": 51.102167,
+        "longitude": 17.036863
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Wybrzeże Wyspiańskiego",
+        "house": "7",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "713559f8000-8f7e-ba06ccf861db",
+      "name": "Wybrzeże Wyspiańskiego / Hoene-Wrońskiego",
+      "description": "Wybrzeże Wyspiańskiego / Hoene-Wrońskiego",
+      "location": {
+        "latitude": 51.108923,
+        "longitude": 17.054419
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Księcia Witolda",
+        "house": "4",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "798a896e000-9ccc-c84bd70d6c19",
+      "name": "Księcia Witolda",
+      "description": "Śluza Mieszczańska",
+      "location": {
+        "latitude": 51.11464,
+        "longitude": 17.031486
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Oławska",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "7c9134a9000-b129-02e3a1433451",
+      "name": "Łaciarska",
+      "description": "Łaciarksa / Oławska",
+      "location": {
+        "latitude": 51.108559,
+        "longitude": 17.035198
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Rzeźnicza",
+        "house": "6",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "862e5bab000-9b6c-f99f5b3c4955",
+      "name": "Rzeźnicza",
+      "description": "Rzeźnicza / Św. Mikołaja",
+      "location": {
+        "latitude": 51.111344,
+        "longitude": 17.028476
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Nowa",
+        "house": "2",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "8d05554d000-a956-e11023753a89",
+      "name": "Nowa",
+      "description": "Muzeum Figur Woskowych",
+      "location": {
+        "latitude": 51.10525682,
+        "longitude": 17.03829154
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Legnicka",
+        "house": "2",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "8d44f1b9000-9ff5-ca77521f3b5e",
+      "name": "Sokolnicza",
+      "description": "Sokolnicza / Legnicka",
+      "location": {
+        "latitude": 51.111618,
+        "longitude": 17.02022
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Curie-Skłodowskiej",
+        "house": "68",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "918ae10c000-af9f-0b04c5012dba",
+      "name": "Curie-Skłodowskiej",
+      "description": "Most Zwierzyniecki",
+      "location": {
+        "latitude": 51.108682,
+        "longitude": 17.068562
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Świętego Ducha",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "956a6f9f000-a1d3-5fa753e2316d",
+      "name": "Piaskowa",
+      "description": "Piaskowa / Świętego Ducha",
+      "location": {
+        "latitude": 51.112994,
+        "longitude": 17.03931
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Ślężna",
+        "house": "74",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "98332225000-9688-f5d00c6807a3",
+      "name": "Kamienna",
+      "description": "Kamienna / Ślężna",
+      "location": {
+        "latitude": 51.089765,
+        "longitude": 17.02918
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Wita Stwosza",
+        "house": "43",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "9e01c56e000-9f10-2f2772709b59",
+      "name": "Wita Stwosza",
+      "description": "Wita Stwosza",
+      "location": {
+        "latitude": 51.110213,
+        "longitude": 17.035199
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Odrzańska",
+        "house": "24",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "aa2ef3d9000-a621-a3404960d50c",
+      "name": "Odrzańska",
+      "description": "Odrzańska",
+      "location": {
+        "latitude": 51.112592,
+        "longitude": 17.03141
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Kotlarska",
+        "house": "5",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "aad7f9c1000-946e-6855a3ae7904",
+      "name": "Kotlarska",
+      "description": "Kotlarska",
+      "location": {
+        "latitude": 51.110975,
+        "longitude": 17.036818
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Mazowiecka",
+        "house": "15",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "ab88c729000-8650-a9364813d4f4",
+      "name": "Mazowiecka",
+      "description": "Mazowiecka",
+      "location": {
+        "latitude": 51.107298,
+        "longitude": 17.050551
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Plac Kościuszki",
+        "house": "5",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "abf36d25000-ad8c-0d79bb84336c",
+      "name": "Plac Kościuszki",
+      "description": "Plac Kościuszki",
+      "location": {
+        "latitude": 51.103157,
+        "longitude": 17.029344
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Plac Solny",
+        "house": "6",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "b06f4c4c000-8520-536005f836c0",
+      "name": "Plac Solny",
+      "description": "Plac Solny",
+      "location": {
+        "latitude": 51.109681,
+        "longitude": 17.028961
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Graniczna",
+        "house": "190",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "b0fea196000-9f1d-dfb8232e3f27",
+      "name": "Lotnisko - parking VIP",
+      "description": "Lotnisko - parking VIP",
+      "location": {
+        "latitude": 51.1100491,
+        "longitude": 16.8789837
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "ul. Słoneczna",
+        "house": "2",
+        "city": "Warszawa"
+      },
+      "spacesCount": 20,
+      "availableSpacesCount": 20,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "b35a0034000-92c6-c93d0a241208",
+      "name": "Parking 1",
+      "description": "Przykładowy opis parkingu",
+      "location": {
+        "latitude": 52.23276,
+        "longitude": 21.02472
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Modrzejewskiej",
+        "house": "1",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "bae87bd2000-8930-fa488532ffaf",
+      "name": "Modrzejewskiej",
+      "description": "Opera Wrocławska",
+      "location": {
+        "latitude": 51.105988,
+        "longitude": 17.030673
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Pereca",
+        "house": "18",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "bcc539a0000-8198-5403ce28f6b3",
+      "name": "Pereca",
+      "description": "Pereca",
+      "location": {
+        "latitude": 51.099262,
+        "longitude": 17.007572
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Sucha",
+        "house": "10",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "bdda696b000-ba9f-ee2bbafd4f9d",
+      "name": "Sucha",
+      "description": "Dworzec Główny PKP",
+      "location": {
+        "latitude": 51.097396,
+        "longitude": 17.035333
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Purkyniego",
+        "house": "10",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "c3664d87000-9b94-e58264b915ae",
+      "name": "Purkyniego",
+      "description": "Panorama Racławicka",
+      "location": {
+        "latitude": 51.11072,
+        "longitude": 17.044949
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Plac Słowiański",
+        "house": "33",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "c43d4766000-9f98-7082f0a69c60",
+      "name": "Słowiańska/Jedności Narodowej",
+      "description": "Park Słowiański",
+      "location": {
+        "latitude": 51.124282,
+        "longitude": 17.043473
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Norwida",
+        "house": "25",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "c4816e61000-8f02-08131de1f0af",
+      "name": "Norwida",
+      "description": "Uniwersytet Przyrodniczy",
+      "location": {
+        "latitude": 51.11183,
+        "longitude": 17.064148
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Drobnera",
+        "house": "40",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "c8dc2206000-b116-00f5f9b6f3ac",
+      "name": "Drobnera",
+      "description": "Drobnera / Bema",
+      "location": {
+        "latitude": 51.117754,
+        "longitude": 17.040638
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Joliot-Curie",
+        "house": "15",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "cafd9904000-9c16-8e20e5d361d0",
+      "name": "Joliot-Curie",
+      "description": "Wydział Chemii UW",
+      "location": {
+        "latitude": 51.111536,
+        "longitude": 17.051272
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Kurkowa",
+        "house": "19",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "ce1d9c49000-9cc5-1da04ad26c6e",
+      "name": "Kurkowa",
+      "description": "Kurkowa",
+      "location": {
+        "latitude": 51.118271,
+        "longitude": 17.028393
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Kiełbaśnicza",
+        "house": "20",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "d14a0034000-92c6-c93d0a241208",
+      "name": "Kiełbaśnicza",
+      "description": "Kiełbaśnicza - Kościół Św. Elżbiety",
+      "location": {
+        "latitude": 51.112188,
+        "longitude": 17.03001
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Włodkowica",
+        "house": "37",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "d18be1b8000-8537-6256b4a48a0f",
+      "name": "Włodkowica",
+      "description": "Urząd Stanu Cywilnego",
+      "location": {
+        "latitude": 51.110625,
+        "longitude": 17.023204
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Staromłyńska",
+        "house": "2",
+        "city": "Wrocław"
+      },
+      "spacesCount": 2,
+      "availableSpacesCount": 2,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "d1a3aa5a000-8ebe-da5ffaaa3e1c",
+      "name": "Staromłyńska",
+      "description": "Staromłyńska",
+      "location": {
+        "latitude": 51.115327,
+        "longitude": 17.040859
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Plac Legionów",
+        "house": "4",
+        "city": "Wrocław"
+      },
+      "spacesCount": 4,
+      "availableSpacesCount": 4,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "e4216883000-aac9-f2ea6bda54be",
+      "name": "Plac Legionów",
+      "description": "Plac Legionów",
+      "location": {
+        "latitude": 51.10423,
+        "longitude": 17.023643
+      },
+      },
+    {
+      "discriminator": "parking",
+      "address": {
+        "street": "Ofiar Oświęcimskich",
+        "house": "41",
+        "city": "Wrocław"
+      },
+      "spacesCount": 3,
+      "availableSpacesCount": 3,
+      "chargers": [],
+      "color": {
+        "rgb": "ffffff",
+        "alpha": 0.5
+      },
+    
+      "id": "eca25e6f000-9ad7-e750991ac6f0",
+      "name": "Ofiar Oświęcimskich",
+      "description": "Ofiar Oświęcimskich / NBP",
+      "location": {
+        "latitude": 51.107609,
+        "longitude": 17.03601
+      },
+      }
   ]
 }
