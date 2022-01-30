@@ -92,16 +92,10 @@
         "latitude": 51.11057,
         "longitude": 17.044326
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -112,16 +106,10 @@
         "latitude": 51.090203,
         "longitude": 16.950611
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -132,16 +120,10 @@
         "latitude": 51.127194,
         "longitude": 16.953301
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -152,18 +134,12 @@
         "latitude": 51.064337,
         "longitude": 17.084293
       },
-      "metadata": {},
       "address": {
         "street": "Mościckiego",
         "house": "36",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -174,16 +150,10 @@
         "latitude": 51.12721,
         "longitude": 17.001381
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -194,16 +164,10 @@
         "latitude": 51.075355,
         "longitude": 17.010315
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -214,16 +178,10 @@
         "latitude": 17.028904,
         "longitude": 51.109574
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -234,17 +192,11 @@
         "latitude": 51.109748,
         "longitude": 17.031125
       },
-      "metadata": {},
       "address": {
         "street": "Rynek",
         "city": "Wrocław"
       },
-      "category": "Krasnale",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Krasnale"
     },
     {
       "discriminator": "poi",
@@ -255,17 +207,11 @@
         "latitude": 51.109751,
         "longitude": 17.030717
       },
-      "metadata": {},
       "address": {
         "street": "Rynek",
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -276,16 +222,10 @@
         "latitude": 51.103919,
         "longitude": 17.057494
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -296,16 +236,10 @@
         "latitude": 51.134486,
         "longitude": 17.100544
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -316,17 +250,11 @@
         "latitude": 51.094802,
         "longitude": 17.018731
       },
-      "metadata": {},
       "address": {
         "street": "Sky Tower",
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -337,18 +265,12 @@
         "latitude": 51.125475,
         "longitude": 17.032527
       },
-      "metadata": {},
       "address": {
         "street": "Plac ks. Stanisława Staszica",
         "house": "50",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -359,16 +281,10 @@
         "latitude": 51.141143,
         "longitude": 16.943751
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -379,16 +295,10 @@
         "latitude": 51.126152,
         "longitude": 16.915696
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -399,17 +309,11 @@
         "latitude": 51.158767,
         "longitude": 17.122165
       },
-      "metadata": {},
       "address": {
         "street": "Dubrownicka",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -420,16 +324,10 @@
         "latitude": 51.11057,
         "longitude": 17.044326
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -440,18 +338,12 @@
         "latitude": 51.142401,
         "longitude": 17.083092
       },
-      "metadata": {},
       "address": {
         "street": "aleja Poprzeczna",
         "house": "37",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -462,16 +354,10 @@
         "latitude": 51.09671,
         "longitude": 16.991208
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -482,18 +368,12 @@
         "latitude": 51.098899,
         "longitude": 17.03669
       },
-      "metadata": {},
       "address": {
         "street": "Piłsudskiego",
         "house": "105",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -504,16 +384,10 @@
         "latitude": 51.105672,
         "longitude": 17.075911
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -524,16 +398,10 @@
         "latitude": 51.110802,
         "longitude": 16.878196
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -544,18 +412,12 @@
         "latitude": 51.16656,
         "longitude": 16.997389
       },
-      "metadata": {},
       "address": {
         "street": "Pełczyńska",
         "house": "44",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -566,16 +428,10 @@
         "latitude": 51.130101,
         "longitude": 16.971441
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -586,17 +442,11 @@
         "latitude": 51.1199,
         "longitude": 16.953373
       },
-      "metadata": {},
       "address": {
         "street": "Żernicka",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -607,16 +457,10 @@
         "latitude": 51.13803,
         "longitude": 17.003848
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -627,16 +471,10 @@
         "latitude": 51.108018,
         "longitude": 16.971263
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -647,16 +485,10 @@
         "latitude": 51.108033,
         "longitude": 17.020347
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -667,16 +499,10 @@
         "latitude": 51.111661,
         "longitude": 16.974192
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -687,16 +513,10 @@
         "latitude": 51.094423,
         "longitude": 17.020978
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -707,16 +527,10 @@
         "latitude": 51.197595,
         "longitude": 16.970276
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -727,17 +541,11 @@
         "latitude": 51.071699,
         "longitude": 16.881629
       },
-      "metadata": {},
       "address": {
         "street": "Dworcowa",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -748,16 +556,10 @@
         "latitude": 51.100849,
         "longitude": 17.030124
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -768,18 +570,12 @@
         "latitude": 51.11524,
         "longitude": 16.998491
       },
-      "metadata": {},
       "address": {
         "street": "Stacyjna",
         "house": "5",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -790,18 +586,12 @@
         "latitude": 51.115873,
         "longitude": 17.1214
       },
-      "metadata": {},
       "address": {
         "street": "Gospodarska",
         "house": "1",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -812,18 +602,12 @@
         "latitude": 51.150426,
         "longitude": 17.119248
       },
-      "metadata": {},
       "address": {
         "street": "Dobroszycka",
         "house": "2",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -834,17 +618,11 @@
         "latitude": 51.037276,
         "longitude": 16.976182
       },
-      "metadata": {},
       "address": {
         "street": "Dworcowa",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -855,18 +633,12 @@
         "latitude": 51.09888,
         "longitude": 17.036568
       },
-      "metadata": {},
       "address": {
         "street": "Piłsudskiego",
         "house": "105",
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -877,16 +649,10 @@
         "latitude": 51.11015,
         "longitude": 17.078862
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -897,17 +663,11 @@
         "latitude": 51.136992,
         "longitude": 16.940858
       },
-      "metadata": {},
       "address": {
         "street": "Warciańska",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -918,16 +678,10 @@
         "latitude": 51.106318,
         "longitude": 17.076769
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -938,16 +692,10 @@
         "latitude": 51.096712,
         "longitude": 16.974283
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -958,16 +706,10 @@
         "latitude": 51.113197,
         "longitude": 17.00533
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -978,18 +720,12 @@
         "latitude": 51.142953,
         "longitude": 16.866649
       },
-      "metadata": {},
       "address": {
         "street": "Rubczaka",
         "house": "20",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -1000,16 +736,10 @@
         "latitude": 51.091047,
         "longitude": 17.032414
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -1020,17 +750,11 @@
         "latitude": 51.168568,
         "longitude": 17.108918
       },
-      "metadata": {},
       "address": {
         "street": "Starodębowa",
         "city": "Wrocław"
       },
-      "category": "Stacje kolejowe",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Stacje kolejowe"
     },
     {
       "discriminator": "poi",
@@ -1041,16 +765,10 @@
         "latitude": 51.114997,
         "longitude": 17.040907
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     },
     {
       "discriminator": "poi",
@@ -1061,16 +779,10 @@
         "latitude": 51.114474,
         "longitude": 17.04691
       },
-      "metadata": {},
       "address": {
         "city": "Wrocław"
       },
-      "category": "Ciekawe miejsca",
-
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      }
+      "category": "Ciekawe miejsca"
     }
   ],
   "PARKING": [
@@ -1080,13 +792,6 @@
         "street": "Bałuckiego",
         "house": "18",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "03c66296000-a78d-9367ea840541",
@@ -1104,13 +809,6 @@
         "house": "1",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "08d06f9d000-9e13-0cd764845e1a",
       "name": "Dubois",
@@ -1126,13 +824,6 @@
         "street": "Plac Powstańców Warszawy",
         "house": "1",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "0a324da8000-9bff-25816b37a282",
@@ -1150,13 +841,6 @@
         "house": "7",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "0acefd7f000-95ec-99e73b65410d",
       "name": "Łukasiewicza",
@@ -1173,13 +857,6 @@
         "house": "27",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "0bfab031000-9bd0-3f3b70f937ac",
       "name": "Uniwersytecka",
@@ -1194,13 +871,6 @@
       "address": {
         "street": "Waligurskiego",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "0ce46865000-b178-8bbbded415dc",
@@ -1218,13 +888,6 @@
         "house": "41",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "0f30a2d1000-8320-d01c83eaf2ef",
       "name": "Aleja Hallera",
@@ -1240,13 +903,6 @@
         "street": "Ruska",
         "house": "11",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "12812496000-b8e4-7d48e39deca2",
@@ -1264,13 +920,6 @@
         "house": "1",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "261437e8000-9d01-46f7ba0917db",
       "name": "Wystawowa",
@@ -1286,13 +935,6 @@
         "street": "Plac Katedralny",
         "house": "11",
         "city": "Wrocław"
-      },
-      "spacesCount": 2,
-      "availableSpacesCount": 2,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "26d4df1e000-b4aa-cb8853da7d8b",
@@ -1310,13 +952,6 @@
         "house": "20",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "36b2517a000-bbdc-73f95f73ea36",
       "name": "Cieszyńskiego",
@@ -1332,13 +967,6 @@
         "street": "Powstańców Śląskich",
         "house": "58",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "3b4e2399000-92b7-df57e738f510",
@@ -1356,13 +984,6 @@
         "house": "6",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "3c692188000-9425-248faff306b4",
       "name": "Plac Orląt Lwowskich",
@@ -1378,13 +999,6 @@
         "street": "Kraińskiego",
         "house": "16",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "42efdf05000-8b64-756265aa0778",
@@ -1402,13 +1016,6 @@
         "house": "2",
         "city": "Wrocław"
       },
-      "spacesCount": 2,
-      "availableSpacesCount": 2,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "45ead00e000-8502-6b11698c1d8a",
       "name": "Św. Marcina / Ostrów Tumski",
@@ -1424,21 +1031,6 @@
         "street": "Bujwida",
         "house": "25",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [
-        "307a90d7-bcb3-438f-a97b-07510cb7333f",
-        "81009482-9621-4cf5-a122-470140114697",
-        "40b3f718-35ae-4a93-acfe-487e5842e530",
-        "292e7beb-c782-408b-bc3d-1f139ec882ec",
-        "a2f1cadf-b597-496f-bace-61fc88cd2c3f",
-        "faf1893c-e5b3-4050-b4f8-4ab96330c438",
-        "d57e8da9-0cf8-4734-abaa-90eae1af799c"
-      ],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "461ca741000-a2c7-e55b78cb5456",
@@ -1456,13 +1048,6 @@
         "house": "1",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "46db46f9000-af75-4a9bf9977a0c",
       "name": "Szajnochy",
@@ -1478,13 +1063,6 @@
         "street": "Na Grobli",
         "house": "8",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "485af88f000-a1df-14035a79ad98",
@@ -1502,13 +1080,6 @@
         "house": "61",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "4988fcef000-a045-fdbb939f7d5c",
       "name": "Wielka",
@@ -1524,13 +1095,6 @@
         "street": "Św. Antoniego",
         "house": "7",
         "city": "Wrocław"
-      },
-      "spacesCount": 2,
-      "availableSpacesCount": 2,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "4c935d42000-8bfe-b299beefb8e2",
@@ -1548,13 +1112,6 @@
         "house": "13",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "50e07c84000-a352-a19b447e65eb",
       "name": "Rejtana",
@@ -1570,13 +1127,6 @@
         "street": "Zapolskiej",
         "house": "2",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "55d810be000-a0c7-5c7b47da6497",
@@ -1594,13 +1144,6 @@
         "house": "7",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "586a8c2b000-8922-db170a8d497c",
       "name": "Hercena",
@@ -1616,13 +1159,6 @@
         "street": "Leszczyńskiego",
         "house": "4",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "5963ecb8000-ae2d-94ffecaf2fc1",
@@ -1640,13 +1176,6 @@
         "house": "2",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "5a3f0abe000-95d6-73e00bb4e745",
       "name": "Aleja Słowackiego",
@@ -1661,13 +1190,6 @@
       "address": {
         "street": "Styki i Kossaka",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "5aaeab24000-8e06-763cf283e5d9",
@@ -1685,13 +1207,6 @@
         "house": "23",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "654b0db3000-ad04-df72cbdf496c",
       "name": "Wybrzeże Wyspiańskiego",
@@ -1707,13 +1222,6 @@
         "street": "Dobrzyńska",
         "house": "16",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "69f1e937000-97be-16a140d74b29",
@@ -1731,13 +1239,6 @@
         "house": "0",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "6ae44064000-b235-baa861896bc7",
       "name": "Piłsudskiego / NOT",
@@ -1753,13 +1254,6 @@
         "street": "Kołłątaja",
         "house": "27",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "6c92cd69000-9cdf-9d28b57b4fdc",
@@ -1777,13 +1271,6 @@
         "house": "7",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "713559f8000-8f7e-ba06ccf861db",
       "name": "Wybrzeże Wyspiańskiego / Hoene-Wrońskiego",
@@ -1800,13 +1287,6 @@
         "house": "4",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "798a896e000-9ccc-c84bd70d6c19",
       "name": "Księcia Witolda",
@@ -1821,13 +1301,6 @@
       "address": {
         "street": "Oławska",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "7c9134a9000-b129-02e3a1433451",
@@ -1845,13 +1318,6 @@
         "house": "6",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "862e5bab000-9b6c-f99f5b3c4955",
       "name": "Rzeźnicza",
@@ -1867,13 +1333,6 @@
         "street": "Nowa",
         "house": "2",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "8d05554d000-a956-e11023753a89",
@@ -1891,13 +1350,6 @@
         "house": "2",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "8d44f1b9000-9ff5-ca77521f3b5e",
       "name": "Sokolnicza",
@@ -1914,13 +1366,6 @@
         "house": "68",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "918ae10c000-af9f-0b04c5012dba",
       "name": "Curie-Skłodowskiej",
@@ -1935,13 +1380,6 @@
       "address": {
         "street": "Świętego Ducha",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "956a6f9f000-a1d3-5fa753e2316d",
@@ -1959,13 +1397,6 @@
         "house": "74",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "98332225000-9688-f5d00c6807a3",
       "name": "Kamienna",
@@ -1981,13 +1412,6 @@
         "street": "Wita Stwosza",
         "house": "43",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "9e01c56e000-9f10-2f2772709b59",
@@ -2005,13 +1429,6 @@
         "house": "24",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "aa2ef3d9000-a621-a3404960d50c",
       "name": "Odrzańska",
@@ -2027,13 +1444,6 @@
         "street": "Kotlarska",
         "house": "5",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "aad7f9c1000-946e-6855a3ae7904",
@@ -2051,13 +1461,6 @@
         "house": "15",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "ab88c729000-8650-a9364813d4f4",
       "name": "Mazowiecka",
@@ -2073,13 +1476,6 @@
         "street": "Plac Kościuszki",
         "house": "5",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "abf36d25000-ad8c-0d79bb84336c",
@@ -2097,13 +1493,6 @@
         "house": "6",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "b06f4c4c000-8520-536005f836c0",
       "name": "Plac Solny",
@@ -2119,13 +1508,6 @@
         "street": "Graniczna",
         "house": "190",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "b0fea196000-9f1d-dfb8232e3f27",
@@ -2143,14 +1525,6 @@
         "house": "2",
         "city": "Warszawa"
       },
-      "spacesCount": 20,
-      "availableSpacesCount": 20,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
-
       "id": "b35a0034000-92c6-c93d0a241208",
       "name": "Parking 1",
       "description": "Przykładowy opis parkingu",
@@ -2165,13 +1539,6 @@
         "street": "Modrzejewskiej",
         "house": "1",
         "city": "Wrocław"
-      },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "bae87bd2000-8930-fa488532ffaf",
@@ -2189,13 +1556,6 @@
         "house": "18",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "bcc539a0000-8198-5403ce28f6b3",
       "name": "Pereca",
@@ -2211,13 +1571,6 @@
         "street": "Sucha",
         "house": "10",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "bdda696b000-ba9f-ee2bbafd4f9d",
@@ -2235,13 +1588,6 @@
         "house": "10",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "c3664d87000-9b94-e58264b915ae",
       "name": "Purkyniego",
@@ -2257,13 +1603,6 @@
         "street": "Plac Słowiański",
         "house": "33",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "c43d4766000-9f98-7082f0a69c60",
@@ -2281,13 +1620,6 @@
         "house": "25",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "c4816e61000-8f02-08131de1f0af",
       "name": "Norwida",
@@ -2303,13 +1635,6 @@
         "street": "Drobnera",
         "house": "40",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "c8dc2206000-b116-00f5f9b6f3ac",
@@ -2327,13 +1652,6 @@
         "house": "15",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "cafd9904000-9c16-8e20e5d361d0",
       "name": "Joliot-Curie",
@@ -2349,13 +1667,6 @@
         "street": "Kurkowa",
         "house": "19",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "ce1d9c49000-9cc5-1da04ad26c6e",
@@ -2373,13 +1684,6 @@
         "house": "20",
         "city": "Wrocław"
       },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "d14a0034000-92c6-c93d0a241208",
       "name": "Kiełbaśnicza",
@@ -2395,13 +1699,6 @@
         "street": "Włodkowica",
         "house": "37",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "d18be1b8000-8537-6256b4a48a0f",
@@ -2419,13 +1716,6 @@
         "house": "2",
         "city": "Wrocław"
       },
-      "spacesCount": 2,
-      "availableSpacesCount": 2,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "d1a3aa5a000-8ebe-da5ffaaa3e1c",
       "name": "Staromłyńska",
@@ -2442,13 +1732,6 @@
         "house": "4",
         "city": "Wrocław"
       },
-      "spacesCount": 4,
-      "availableSpacesCount": 4,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
-      },
 
       "id": "e4216883000-aac9-f2ea6bda54be",
       "name": "Plac Legionów",
@@ -2464,13 +1747,6 @@
         "street": "Ofiar Oświęcimskich",
         "house": "41",
         "city": "Wrocław"
-      },
-      "spacesCount": 3,
-      "availableSpacesCount": 3,
-      "chargers": [],
-      "color": {
-        "rgb": "ffffff",
-        "alpha": 0.5
       },
 
       "id": "eca25e6f000-9ad7-e750991ac6f0",
