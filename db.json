@@ -5,13 +5,124 @@
       "id": "0",
       "name": "EPLS",
       "description": "EPLS",
+      "freq": "Leszno-Radio 122.305",
+      "elevation": "310 ft",
+      "runways": "178/358, (18/36) 940 x 50 m",
+      "photo": "https://lotniska.dlapilota.pl/sites/lotniska.dlapilota.pl/files/galeria/61000432_328829011116836_8314197476848435200_n.jpg",
       "location": {
         "latitude": 51.83515521443278,
         "longitude": 16.521913448795374
       },
-
       "address": {
         "city": "Leszno"
+      },
+      "category": "Airfield"
+    },
+    {
+      "discriminator": "airfield",
+      "id": "1",
+      "name": "EPWC",
+      "description": "EPWC",
+      "freq": "Świebodzice-Radio 135.755",
+      "elevation": "879 ft",
+      "runways": "055/235 (05/23), 900 x 60 m",
+      "photo": "https://lotniska.dlapilota.pl/sites/lotniska.dlapilota.pl/files/galeria/20150606_145602.jpg",
+      "location": {
+        "latitude": 50.88253932089309,
+        "longitude": 16.319394880048748
+      },
+      "address": {
+        "city": "Świebodzice"
+      },
+      "category": "Airfield"
+    },
+    {
+      "discriminator": "airfield",
+      "id": "2",
+      "name": "EPBR",
+      "description": "EPBR",
+      "freq": "Baryt-Radio 123.450",
+      "elevation": "1420 ft",
+      "runways": "098/278, 500 x 50 m",
+      "photo": "http://lh4.ggpht.com/_znt3bUjEAcM/S4sA0j3G30I/AAAAAAAAAOM/10Mw3AxUxVs/s1024/Baryt%20foto.JPG",
+      "location": {
+        "latitude": 51.055599510191044,
+        "longitude": 16.012569081769936
+      },
+      "address": {
+        "city": "Stanisławów"
+      },
+      "category": "Airfield"
+    },
+    {
+      "discriminator": "airfield",
+      "id": "3",
+      "name": "EPJG",
+      "description": "EPJG",
+      "freq": "Jelenia Góra-Radio 122.900",
+      "elevation": "1122 ft",
+      "runways": "115/295 (10/28), 779 x 50 m",
+      "photo": "https://lotniska.dlapilota.pl/sites/lotniska.dlapilota.pl/files/galeria/epjg2.jpg",
+      "location": {
+        "latitude": 50.89905495208206,
+        "longitude": 15.784073332806992
+      },
+      "address": {
+        "city": "Jelenia Góra"
+      },
+      "category": "Airfield"
+    },
+    {
+      "discriminator": "airfield",
+      "id": "4",
+      "name": "EPLU",
+      "description": "EPLU",
+      "freq": "Lubin-Radio 119.535",
+      "elevation": "507 ft",
+      "runways": "130/310 (13/31), 1000 x 30 m beton",
+      "photo": "https://lh6.googleusercontent.com/-CS54IsQLB8I/Up4_AS0WTZI/AAAAAAAADH8/ZTG5tg6n9Po/s1024/Lubin.jpg",
+      "location": {
+        "latitude": 51.42359130766585,
+        "longitude": 16.19504011873867
+      },
+      "address": {
+        "city": "Lubin"
+      },
+      "category": "Airfield"
+    },
+    {
+      "discriminator": "airfield",
+      "id": "5",
+      "name": "EPMR",
+      "description": "EPMR",
+      "freq": "Mirosławice-Radio 122.605",
+      "elevation": "504 ft",
+      "runways": "093/273 (09/27), 570 x 50 m",
+      "photo": "https://lotniska.dlapilota.pl/sites/lotniska.dlapilota.pl/files/galeria/miroslawice.png",
+      "location": {
+        "latitude": 50.959194436561674,
+        "longitude": 16.768421782290897
+      },
+      "address": {
+        "city": "Mirosławice"
+      },
+      "category": "Airfield"
+    },
+    {
+      "discriminator": "airfield",
+      "id": "6",
+      "name": "EPWS",
+      "description": "EPWS",
+      "freq": "Szymanów-Radio 124.115",
+      "elevation": "390 ft",
+      "runways": "144/324 (14/32), 768 x 51 m",
+      "photo": "https://lotniska.dlapilota.pl/sites/lotniska.dlapilota.pl/files/galeria/epws.jpg",
+      "location": {
+        "latitude": 51.20689880392315,
+        "longitude": 16.998410653073957
+      },
+      "address": {
+        "city": "Szymanów"
       },
       "category": "Airfield"
     }
