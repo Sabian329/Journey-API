@@ -1,4 +1,21 @@
 {
+  "AIRFIELDS": [
+    {
+      "discriminator": "airfield",
+      "id": "0",
+      "name": "EPLS",
+      "description": "EPLS",
+      "location": {
+        "latitude": 51.83515521443278,
+        "longitude": 16.521913448795374
+      },
+
+      "address": {
+        "city": "Leszno"
+      },
+      "category": "Airfield"
+    }
+  ],
   "VEHICLE": [
     {
       "discriminator": "vehicle",
