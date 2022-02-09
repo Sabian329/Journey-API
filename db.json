@@ -125,6 +125,24 @@
         "city": "Szymanów"
       },
       "category": "Airfield"
+    },
+    {
+      "discriminator": "airfield",
+      "id": "7",
+      "name": "EPWR",
+      "description": "EPWR",
+      "freq": "Wrocław-Tower 120.255",
+      "elevation": "406 ft",
+      "runways": "116/296 (11/29), 2503 x 58 m beton",
+      "photo": "https://cdn.jetphotos.com/full/5/32873_1441871724.jpg",
+      "location": {
+        "latitude": 51.1040520304703,
+        "longitude": 16.881197476012183
+      },
+      "address": {
+        "city": "Wrocław"
+      },
+      "category": "Airfield"
     }
   ],
   "VEHICLE": [
