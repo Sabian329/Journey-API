@@ -2,7 +2,7 @@
   "AIRFIELDS": [
     {
       "discriminator": "airfield",
-      "id": "0",
+      "id": "0123422321231234",
       "name": "EPLS",
       "description": "EPLS",
       "freq": "Leszno-Radio 122.305",
@@ -20,7 +20,7 @@
     },
     {
       "discriminator": "airfield",
-      "id": "1",
+      "id": "1123422321231234",
       "name": "EPWC",
       "description": "EPWC",
       "freq": "Świebodzice-Radio 135.755",
@@ -38,7 +38,7 @@
     },
     {
       "discriminator": "airfield",
-      "id": "2",
+      "id": "2123422321231234",
       "name": "EPBR",
       "description": "EPBR",
       "freq": "Baryt-Radio 123.450",
@@ -56,7 +56,7 @@
     },
     {
       "discriminator": "airfield",
-      "id": "3",
+      "id": "3123422321231234",
       "name": "EPJG",
       "description": "EPJG",
       "freq": "Jelenia Góra-Radio 122.900",
@@ -74,7 +74,7 @@
     },
     {
       "discriminator": "airfield",
-      "id": "4",
+      "id": "4123422321231234",
       "name": "EPLU",
       "description": "EPLU",
       "freq": "Lubin-Radio 119.535",
@@ -92,7 +92,7 @@
     },
     {
       "discriminator": "airfield",
-      "id": "5",
+      "id": "5123422321231234",
       "name": "EPMR",
       "description": "EPMR",
       "freq": "Mirosławice-Radio 122.605",
@@ -110,7 +110,7 @@
     },
     {
       "discriminator": "airfield",
-      "id": "6",
+      "id": "6123422321231234",
       "name": "EPWS",
       "description": "EPWS",
       "freq": "Szymanów-Radio 124.115",
@@ -128,7 +128,7 @@
     },
     {
       "discriminator": "airfield",
-      "id": "7",
+      "id": "7123422321231234",
       "name": "EPWR",
       "description": "EPWR",
       "freq": "Wrocław-Tower 120.255",
