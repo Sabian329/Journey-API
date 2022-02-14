@@ -8,7 +8,7 @@
       "elevation": 310,
       "runway": {
         "directions": [178, 358],
-        "numbers": [18, 36],
+        "numbers": ["18", "36"],
         "dementions": [940, 50],
         "surface": "grass"
       },
@@ -31,7 +31,7 @@
       "elevation": 879,
       "runway": {
         "directions": [55, 235],
-        "numbers": [5, 23],
+        "numbers": ["05", "23"],
         "dementions": [900, 60],
         "surface": "grass"
       },
